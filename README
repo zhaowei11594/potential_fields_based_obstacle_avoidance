@@ -11,3 +11,12 @@ Authors: Philip Vance <p.vance@ulster.ac.uk>
 Emmett Kerr <ep.Kerr@ulster.ac.uk>
 
 http://http://isrc.ulster.ac.uk/cognitive-robotics-team/welcome-to-the-cognitive-robotics-research-team.html
+
+
+
+
+This code can be used on a mobile robot for avoiding obstacles. This code was originally written for use with
+a Summit XL mobile robot from Robotnik using laser readings as the means for determining obstacles. 
+
+However it can be configured to be used for any mobile robot using either laser and/or sonar readings. 
+It is based on the use of a potent… 
